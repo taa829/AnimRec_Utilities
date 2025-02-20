@@ -23,3 +23,18 @@ Select a save destination and click "OK" to save the JSON file.
 This completes the process.  
 See the next section for information on converting to an Anim file.  
 ![json2anim_page3](https://github.com/user-attachments/assets/867be11b-06cd-4c6e-8c89-152dad96c873)
+
+## JsonAnimImporter
+Generates a humanoid animation file based on Unity human muscle data converted by Json2Anim.
+### How to use
+#### Step 1
+Import the unitypackage distributed here into your avatar project.  
+After the import is complete, make sure that the "TaaDev" item is present in the menu bar.  
+**Warning: Do not move the JsonAnimImporter directory!**
+![jsonanim_page0](https://github.com/user-attachments/assets/f0537021-b84d-4bc4-b2ec-e081ddf12468)
+### Step 2
+Launch the importer from "TaaDev/Anim Importer" on the menu bar.
+Click "Select file & Import clip" and select the corresponding JSON to generate an animation clip,  
+then select the destination to save the anim file and create and import the file.  
+Setting the keyframe reduction option can reduce the upload size of the avatar (but movements will become unnatural).  
+![jsonanim_page1](https://github.com/user-attachments/assets/1fd1e135-75ab-4daf-9f21-19b79915181c)
