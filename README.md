@@ -3,9 +3,10 @@ Tools for the VRChat world "AnimRecStudio".
 
 "AnimRecStudio" is a world in VRChat where you can capture movements and generate animation clips.  
 You can create animation clips using the tools distributed here.  
-![worldthmb](https://github.com/user-attachments/assets/ca30a860-832b-4ec6-ad10-59a0a7fc6494)
-### World Link  
+### World Link
 https://vrchat.com/home/world/wrld_210c3cfe-3fc9-48e4-9a9f-f5ff31cb4ea5/info
+
+![worldthmb](https://github.com/user-attachments/assets/ca30a860-832b-4ec6-ad10-59a0a7fc6494)
 
 ## Json2Anim Converter
 Receives data from the VRChat client and converts rotation information into JSON human skeleton data.
