@@ -1,6 +1,10 @@
 # AnimRec_Utilities
 Tools for the VRChat world "AnimRecStudio".
 
+"AnimRecStudio" is a world in VRChat where you can capture movements and generate animation clips.  
+You can create animation clips using the tools distributed here.  
+![worldthmb](https://github.com/user-attachments/assets/ca30a860-832b-4ec6-ad10-59a0a7fc6494)
+
 ## Json2Anim Converter
 Receives data from the VRChat client and converts rotation information into JSON human skeleton data.
 ### How to use
@@ -29,7 +33,8 @@ Generates a humanoid animation file based on Unity human muscle data converted b
 ### How to use
 #### Step 1
 Import the unitypackage distributed here into your avatar project.  
-After the import is complete, make sure that the "TaaDev" item is present in the menu bar.  
+After the import is complete, make sure that 
+the "TaaDev" item is present in the menu bar.  
 **Warning: Do not move the JsonAnimImporter directory!**
 ![jsonanim_page0](https://github.com/user-attachments/assets/f0537021-b84d-4bc4-b2ec-e081ddf12468)
 ### Step 2
