@@ -8,9 +8,9 @@ https://vrchat.com/home/world/wrld_210c3cfe-3fc9-48e4-9a9f-f5ff31cb4ea5/info
 
 ### Tools Download Links
 #### Json2Anim
-https://github.com/taa829/AnimRec_Utilities/releases/download/v1.0-first-release/Json2Anim_release_v1.0.zip
+https://github.com/taa829/AnimRec_Utilities/releases/download/v1.1-release/Json2Anim_release_v1.1.zip
 #### JsonAnimImporter
-https://github.com/taa829/AnimRec_Utilities/releases/download/v1.0-first-release/JsonAnimImporter_v1.0.unitypackage  
+https://github.com/taa829/AnimRec_Utilities/releases/download/v1.1-release/JsonAnimImporter_v1.1.unitypackage
 
 ![worldthmb](https://github.com/user-attachments/assets/ca30a860-832b-4ec6-ad10-59a0a7fc6494)
 
